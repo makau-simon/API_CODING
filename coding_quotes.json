@@ -1,0 +1,404 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "quote": "Code is like humor. When you have to explain it, it\u2019s bad."
+        },
+        {
+            "id": 2,
+            "quote": "Programs must be written for people to read, and only incidentally for machines to execute."
+        },
+        {
+            "id": 3,
+            "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+        },
+        {
+            "id": 4,
+            "quote": "First, solve the problem. Then, write the code."
+        },
+        {
+            "id": 5,
+            "quote": "Experience is the name everyone gives to their mistakes."
+        },
+        {
+            "id": 6,
+            "quote": "In order to be irreplaceable, one must always be different."
+        },
+        {
+            "id": 7,
+            "quote": "Java is to JavaScript what car is to carpet."
+        },
+        {
+            "id": 8,
+            "quote": "Knowledge is power."
+        },
+        {
+            "id": 9,
+            "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday\u2019s code."
+        },
+        {
+            "id": 10,
+            "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."
+        },
+        {
+            "id": 11,
+            "quote": "Ruby is rubbish! PHP is phpantastic!"
+        },
+        {
+            "id": 12,
+            "quote": "Code never lies, comments sometimes do."
+        },
+        {
+            "id": 13,
+            "quote": "Fix the cause, not the symptom."
+        },
+        {
+            "id": 14,
+            "quote": "Optimism is an occupational hazard of programming: feedback is the treatment."
+        },
+        {
+            "id": 15,
+            "quote": "Simplicity is the soul of efficiency."
+        },
+        {
+            "id": 16,
+            "quote": "Before software can be reusable it first has to be usable."
+        },
+        {
+            "id": 17,
+            "quote": "Make it work, make it right, make it fast."
+        },
+        {
+            "id": 18,
+            "quote": "Programming isn't about what you know; it's about what you can figure out."
+        },
+        {
+            "id": 19,
+            "quote": "The only way to go fast is to go well."
+        },
+        {
+            "id": 20,
+            "quote": "Any sufficiently advanced technology is indistinguishable from magic."
+        },
+        {
+            "id": 21,
+            "quote": "Testing leads to failure, and failure leads to understanding."
+        },
+        {
+            "id": 22,
+            "quote": "The best error message is the one that never shows up."
+        },
+        {
+            "id": 23,
+            "quote": "Deleted code is debugged code."
+        },
+        {
+            "id": 24,
+            "quote": "Programming is the art of algorithm design and the craft of debugging errant code."
+        },
+        {
+            "id": 25,
+            "quote": "Walking on water and developing software from a specification are easy if both are frozen."
+        },
+        {
+            "id": 26,
+            "quote": "Talk is cheap. Show me the code."
+        },
+        {
+            "id": 27,
+            "quote": "When in doubt, leave it out."
+        },
+        {
+            "id": 28,
+            "quote": "Code is read more than it is written."
+        },
+        {
+            "id": 29,
+            "quote": "Programming can be fun, so can cryptography; however, they should not be combined."
+        },
+        {
+            "id": 30,
+            "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+        },
+        {
+            "id": 31,
+            "quote": "The most disastrous thing that you can ever learn is your first programming language."
+        },
+        {
+            "id": 32,
+            "quote": "To iterate is human, to recurse divine."
+        },
+        {
+            "id": 33,
+            "quote": "A good programmer is someone who always looks both ways before crossing a one-way street."
+        },
+        {
+            "id": 34,
+            "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+        },
+        {
+            "id": 35,
+            "quote": "The function of good software is to make the complex appear to be simple."
+        },
+        {
+            "id": 36,
+            "quote": "Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense."
+        },
+        {
+            "id": 37,
+            "quote": "The computer was born to solve problems that did not exist before."
+        },
+        {
+            "id": 38,
+            "quote": "Programs are meant to be read by humans and only incidentally for computers to execute."
+        },
+        {
+            "id": 39,
+            "quote": "Computers are fast; programmers keep it slow."
+        },
+        {
+            "id": 40,
+            "quote": "Programming is not about typing, it\u2019s about thinking."
+        },
+        {
+            "id": 41,
+            "quote": "The best way to predict the future is to implement it."
+        },
+        {
+            "id": 42,
+            "quote": "Code quality matters."
+        },
+        {
+            "id": 43,
+            "quote": "There is no programming language, no matter how structured, that will prevent programmers from making bad programs."
+        },
+        {
+            "id": 44,
+            "quote": "The best code is no code at all."
+        },
+        {
+            "id": 45,
+            "quote": "Code should be simple and clear."
+        },
+        {
+            "id": 46,
+            "quote": "It\u2019s not a bug \u2013 it\u2019s an undocumented feature."
+        },
+        {
+            "id": 47,
+            "quote": "A program is never less than 90% complete and never more than 95% complete."
+        },
+        {
+            "id": 48,
+            "quote": "Debugging is like being the detective in a crime drama where you are also the murderer."
+        },
+        {
+            "id": 49,
+            "quote": "In theory, theory and practice are the same. In practice, they\u2019re not."
+        },
+        {
+            "id": 50,
+            "quote": "Programming is the closest thing we have to magic."
+        },
+        {
+            "id": 51,
+            "quote": "The only constant in programming is change."
+        },
+        {
+            "id": 52,
+            "quote": "Write code as if you had to support it for the rest of your life."
+        },
+        {
+            "id": 53,
+            "quote": "All code is guilty until proven innocent."
+        },
+        {
+            "id": 54,
+            "quote": "Good code is like a good joke \u2013 it needs no explanation."
+        },
+        {
+            "id": 55,
+            "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+        },
+        {
+            "id": 56,
+            "quote": "One man\u2019s crappy software is another man\u2019s full-time job."
+        },
+        {
+            "id": 57,
+            "quote": "Programming is thinking, not typing."
+        },
+        {
+            "id": 58,
+            "quote": "A program that produces incorrect results twice as fast is infinitely slower."
+        },
+        {
+            "id": 59,
+            "quote": "The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly."
+        },
+        {
+            "id": 60,
+            "quote": "Truth can only be found in one place: the code."
+        },
+        {
+            "id": 61,
+            "quote": "Beware of bugs in the above code; I have only proved it correct, not tried it."
+        },
+        {
+            "id": 62,
+            "quote": "The cheapest, fastest, and most reliable components of a computer system are those that aren\u2019t there."
+        },
+        {
+            "id": 63,
+            "quote": "Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: you don\u2019t know where you\u2019ve been, where you are, or where you\u2019re going."
+        },
+        {
+            "id": 64,
+            "quote": "You can have data without information, but you cannot have information without data."
+        },
+        {
+            "id": 65,
+            "quote": "Copy and paste is a design error."
+        },
+        {
+            "id": 66,
+            "quote": "Make your code easy to delete, not easy to extend."
+        },
+        {
+            "id": 67,
+            "quote": "A great coder is not one who writes code well but one who understands problems well."
+        },
+        {
+            "id": 68,
+            "quote": "Don\u2019t write better error messages; write code that doesn\u2019t need them."
+        },
+        {
+            "id": 69,
+            "quote": "A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter is hard to use. But with practice, it becomes beautiful."
+        },
+        {
+            "id": 70,
+            "quote": "Programming is the art of telling another human what one wants the computer to do."
+        },
+        {
+            "id": 71,
+            "quote": "Testing can show the presence of bugs, but not their absence."
+        },
+        {
+            "id": 72,
+            "quote": "The best programmers don\u2019t just write code; they also write understanding."
+        },
+        {
+            "id": 73,
+            "quote": "Simple things should be simple, complex things should be possible."
+        },
+        {
+            "id": 74,
+            "quote": "Elegance is not a dispensable luxury but a quality that decides between success and failure."
+        },
+        {
+            "id": 75,
+            "quote": "Your job is not to write code. Your job is to solve problems."
+        },
+        {
+            "id": 76,
+            "quote": "If you don\u2019t write your own story, someone else will."
+        },
+        {
+            "id": 77,
+            "quote": "A programmer who refuses to keep learning is no programmer at all."
+        },
+        {
+            "id": 78,
+            "quote": "The sooner you start to code, the longer the program will take."
+        },
+        {
+            "id": 79,
+            "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it\u2019s too late."
+        },
+        {
+            "id": 80,
+            "quote": "Code should tell a story."
+        },
+        {
+            "id": 81,
+            "quote": "Every line of code you write is a liability."
+        },
+        {
+            "id": 82,
+            "quote": "Commenting your code is like cleaning your room."
+        },
+        {
+            "id": 83,
+            "quote": "Code is not just code; it\u2019s a story of how your mind works."
+        },
+        {
+            "id": 84,
+            "quote": "The code you write defines your legacy."
+        },
+        {
+            "id": 85,
+            "quote": "Every piece of code can be beautiful."
+        },
+        {
+            "id": 86,
+            "quote": "Always be coding."
+        },
+        {
+            "id": 87,
+            "quote": "Never stop learning, because life never stops teaching."
+        },
+        {
+            "id": 88,
+            "quote": "Programming is an adventure into the unknown."
+        },
+        {
+            "id": 89,
+            "quote": "The best code is no code."
+        },
+        {
+            "id": 90,
+            "quote": "Code as if the next person to maintain it is a violent psychopath."
+        },
+        {
+            "id": 91,
+            "quote": "Good software, like good wine, takes time."
+        },
+        {
+            "id": 92,
+            "quote": "Your code reflects who you are."
+        },
+        {
+            "id": 93,
+            "quote": "The only shortcut in programming is not taking shortcuts."
+        },
+        {
+            "id": 94,
+            "quote": "Code is poetry."
+        },
+        {
+            "id": 95,
+            "quote": "Debugging is twice as hard as writing the code in the first place."
+        },
+        {
+            "id": 96,
+            "quote": "Learn to love the process, not just the result."
+        },
+        {
+            "id": 97,
+            "quote": "Coding is a journey, not a destination."
+        },
+        {
+            "id": 98,
+            "quote": "Write less code, achieve more."
+        },
+        {
+            "id": 99,
+            "quote": "Stay hungry, stay coding."
+        },
+        {
+            "id": 100,
+            "quote": "The only way to write good code is to love what you do."
+        }
+    ]
+}
